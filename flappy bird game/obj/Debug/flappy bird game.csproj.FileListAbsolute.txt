@@ -1,0 +1,11 @@
+D:\flappy bird game\flappy bird game\obj\Debug\flappy bird game.csproj.AssemblyReference.cache
+D:\flappy bird game\flappy bird game\obj\Debug\flappy bird game.csproj.SuggestedBindingRedirects.cache
+D:\flappy bird game\flappy bird game\obj\Debug\flappy_bird_game.Properties.Resources.resources
+D:\flappy bird game\flappy bird game\obj\Debug\flappy bird game.csproj.GenerateResource.cache
+D:\flappy bird game\flappy bird game\obj\Debug\flappy bird game.csproj.CoreCompileInputs.cache
+D:\flappy bird game\flappy bird game\bin\Debug\flappy bird game.exe.config
+D:\flappy bird game\flappy bird game\bin\Debug\flappy bird game.exe
+D:\flappy bird game\flappy bird game\bin\Debug\flappy bird game.pdb
+D:\flappy bird game\flappy bird game\obj\Debug\flappy bird game.exe
+D:\flappy bird game\flappy bird game\obj\Debug\flappy bird game.pdb
+D:\flappy bird game\flappy bird game\obj\Debug\bird_game.gamee.resources
